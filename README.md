@@ -69,14 +69,14 @@ React 19 · TypeScript (strict) · Tailwind v4 · Vite · Next.js 15
 
 ## Entregáveis
 
-**Diários**: código commitado neste repo + [artigo no blog](https://alvarojunqueira.com.br) ensinando os conceitos do dia + flashcards Anki
+**Diários**: código commitado neste repo + [artigo no blog](https://alvarojunqueira.com.br) ensinando os conceitos do dia + flashcards Anki + artigo aprofundado no blog
 
-**Semanais**: milestone funcional + artigo aprofundado no blog
+**Semanais**: milestone funcional
 
 ## Progresso
 
 - [x] Dia 01 — JS: Tipos, Funções, Closures
-- [ ] Dia 02 — JS: Async, Promises, Event Loop
+- [x] Dia 02 — JS: Async, Promises, Event Loop
 - [ ] Dia 03 — JS: DOM, Events, ES Modules
 - [ ] Dia 04 — CSS: Box Model + Flexbox
 - [ ] Dia 05 — CSS: Grid + Responsive Design
